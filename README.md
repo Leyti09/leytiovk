@@ -1,4 +1,4 @@
-# <img align="right" src="/Web/static/img/logo_shadow.png" alt="openvk" title="openvk" width="15%">OpenVK
+# <img align="right" src="/Web/static/img/logo_shadow.png" alt="openvk" title="openvk" width="15%">LeytiOVK
 
 
 **LeytiOVK** — это соцсеть, базировано на форке OpenVK, который импортирует старый дизайн ВКонтакте.
